@@ -57,6 +57,14 @@
             ]
           },
           {
+            "group": "REST API",
+            "openapi": "openapi.json"
+          },
+          {
+            "group": "Async API",
+            "asyncapi": "asyncapi.json"
+          },
+          {
             "group": "Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
